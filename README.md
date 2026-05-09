@@ -109,7 +109,7 @@ Random Forest achieved the best overall performance with improved predictive acc
 ## Project Structure
 
 ```
-Predicting Customer Churn/
+Predicting-Customer-Churn/
 │
 ├── 📁 Dataset/
 │   ├── Dataset Description.docx
