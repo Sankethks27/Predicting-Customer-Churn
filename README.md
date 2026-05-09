@@ -107,6 +107,8 @@ Random Forest achieved the best overall performance with improved predictive acc
 - NLP-based customer sentiment analysis
 
 ## Project Structure
+
+```
 customer-churn-prediction/
 │
 ├── Dataset/
