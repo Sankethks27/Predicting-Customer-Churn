@@ -109,15 +109,17 @@ Random Forest achieved the best overall performance with improved predictive acc
 ## Project Structure
 
 ```
-customer-churn-prediction/
+Predicting Customer Churn/
 │
-├── Dataset/
-│   ├── Customer_Churn_Dataset.xlsx
-│   └── Dataset_Description.docx
+├── 📁 Dataset/
+│   ├── Dataset Description.docx
+│   └── LoyaltyVision Analytics Dataset.xlsx
 │
-├── Final Reports/
-│   └── Final_Report.pdf
+├── 📁 Final Report/
+│   └── Final Report.pdf
 |
-├── Notebooks/
-│   ├── Customer_Churn_Prediction.ipynb
-│
+├── 📁 Notebook/
+│   └── Predicting_Customer_Churn.ipynb
+|
+└── 📁 README.md
+```
