@@ -1,4 +1,5 @@
 # Predicting Customer Churn
+Machine learning and predictive analytics project for identifying customers at risk of churn and supporting proactive customer retention strategies using behavioral and service interaction data.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
