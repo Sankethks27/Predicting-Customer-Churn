@@ -28,3 +28,94 @@ The objective of this project is to develop a predictive model that identifies c
 - Customer behavior
 
 The insights generated from the model can help businesses deploy targeted customer retention strategies.
+
+## Objectives
+- Identify key factors influencing customer churn
+- Perform Exploratory Data Analysis (EDA)
+- Build machine learning models for churn prediction
+- Compare model performance using evaluation metrics
+- Generate business insights and retention recommendations
+
+## Dataset Information
+- **Dataset Size**: 11,260 customer records
+- **Total Variables**: 19
+- **Target Variable**: Churn
+
+**Key Features**
+- Tenure
+- Payment Mode
+- Service Score
+- Revenue Per Month
+- Customer Support Interaction
+- Account Segment
+- Cashback
+- Complaint History
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- OpenPyXL
+- Google Colab
+
+## Machine Learning Models Used
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+
+## Project Workflow
+1. Data Collection
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Building
+6. Model Evaluation
+7. Business Insights and Recommendations
+
+## Model Evaluation Metrics
+The following evaluation metrics were used:
+
+- Accuracy
+- Precision
+- Recall
+- ROC-AUC Score
+
+## Best Performing Model
+Random Forest achieved the best overall performance with improved predictive accuracy and balanced ROC-AUC score.
+
+## Key Findings
+- Customers with shorter tenure showed higher churn probability
+- Low service scores strongly influenced churn behavior
+- Frequent customer complaints increased churn likelihood
+- Tier 3 city customers showed higher churn tendency
+- Customers using COD and E-wallet payments were less loyal
+
+## Business Recommendations
+- Introduce customer loyalty programs
+- Improve customer support quality
+- Offer personalized retention campaigns
+- Encourage digital payment methods
+- Provide targeted offers for high-risk customers
+
+## Future Scope
+- Real-time churn prediction integration
+- CRM integration for automated alerts
+- Explainable AI techniques (SHAP)
+- NLP-based customer sentiment analysis
+
+## Project Structure
+customer-churn-prediction/
+│
+├── Dataset/
+│   ├── Customer_Churn_Dataset.xlsx
+│   └── Dataset_Description.docx
+│
+├── Final Reports/
+│   └── Final_Report.pdf
+|
+├── Notebooks/
+│   ├── Customer_Churn_Prediction.ipynb
+│
