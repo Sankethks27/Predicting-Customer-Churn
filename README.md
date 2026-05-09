@@ -123,3 +123,29 @@ Predicting-Customer-Churn/
 |
 └── 📁 README.md
 ```
+
+## How to Run the Project
+1. Open the notebook in Google Colab or Jupyter Notebook
+2. Upload the dataset file
+3. Update dataset file paths if necessary
+4. Run all notebook cells sequentially
+
+**Note**
+This project was developed using Google Colab. Dataset paths may need to be modified based on the local system environment before execution.
+
+## 🤝🏿 **Contributing**
+
+This capstone project represents my personal learning through the MCA Specialized in Data Science. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on data science projects.
+
+## 📧 **Contact**
+
+**Sanketh Ks**  
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
+
+---
+
+⭐ **If you find this portfolio helpful or inspiring, please give it a star!** ⭐
+
+---
